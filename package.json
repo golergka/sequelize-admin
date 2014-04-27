@@ -7,10 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "amdify-bootstrap": "node_modules/.bin/bootstrap-amd app/js/components/bootstrap"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/sdepold/sequelize-admin.git"
-  },
   "author": "",
   "license": "BSD",
   "readmeFilename": "README.md",
